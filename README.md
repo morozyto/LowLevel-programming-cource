@@ -1,4 +1,4 @@
-# LowLevel-programming-cource in BMSTU
+# LowLevel-programming-course in BMSTU
 
 * CALC.asm  – Add, substract and multiply two numbers from zero to 2 in power 512. Each number occupies the sector (512 bytes), so the result of addition and substraction will be 512 bytes too (by module of 2 in power 512) and the result of multiplication will be 1024 bytes. Tested in emu8086.
 
